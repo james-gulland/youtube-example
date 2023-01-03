@@ -1,5 +1,6 @@
 # youtube-example.  Please view index.html for the end result.
-# Link to excellent course here (highly recommended for newbs): https://youtu.be/G3e-cpL7ofc
+
+Link to excellent course here (highly recommended for newbs): https://youtu.be/G3e-cpL7ofc
 
 Just a little note about what this project is:  basically, this is a simple html and CSS intro course learning the basics, with the end result building 
 an example of the YouTube homepage.
