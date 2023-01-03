@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lesson 11 Exercises - CSS Grid</title>
+    <style>
+      .grid-11a {
+        display: grid;
+        grid-template-columns: 200px 75px;
+        margin-bottom: 20px;
+      }
+
+      .grid-11b {
+        display: grid;
+        grid-template-columns: 50px 1fr 75px;
+        margin-bottom: 20px;
+      }
+
+      .grid-11c {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        column-gap: 20px;
+        row-gap: 10px;
+        margin-bottom: 20px;
+      }
+
+      .grid-a {
+        background-color: lightblue;
+      }
+
+      .grid-b {
+        background-color: lightpink;
+      }
+    </style>
+  </head>
+  
+  <body>
+
+    <!-- Exercise 11a -->
+    <div class="grid-11a">
+      <div class="grid-a">200px</div>
+      <div class="grid-b">75px</div>
+    </div>
+
+    <!-- Exercise 11b -->
+    <div class="grid-11b">
+      <div class="grid-a">50px</div>
+      <div class="grid-b">1fr</div>
+      <div class="grid-a">75px</div>
+    </div>
+
+    <!-- Exercise 11c -->
+    <div class="grid-11c">
+      <div class="grid-a">50px</div>
+      <div class="grid-b">1fr</div>
+      <div class="grid-a">75px</div>
+      <div class="grid-b">50px</div>
+      <div class="grid-b">1fr</div>
+      <div class="grid-a">75px</div>
+      <div class="grid-b">1fr</div>
+      <div class="grid-a">75px</div>
+    </div>
+
+  </body>
+</html>
