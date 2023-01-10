@@ -1,11 +1,11 @@
 # youtube-example.  Please view index.html for the end result.
 
-Link to excellent course here (highly recommended for newbs): https://youtu.be/G3e-cpL7ofc
-
-Just a little note about what this project is:  basically, this is a simple html and CSS intro course learning the basics, with the end result building 
+<b>Purpose:</b> followed an online tutorial to gain a better understanding of simple html and CSS, learning the basics, with the end result building 
 an example of the YouTube homepage.
 
-A few things specifically I learnt:
+Link to excellent course here (highly recommended for newbs): https://youtu.be/G3e-cpL7ofc
+
+<b>A few things specifically I learnt:</b>
 
       - Display: understanding block/inline block, and how each of these are displayed in the browser
       - Grid (see intro-to-html/grid.html): 'display: grid'. A fairly rigid way of defining a grid within a website
