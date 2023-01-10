@@ -3,7 +3,7 @@
 <b>Purpose:</b> followed an online tutorial to gain a better understanding of simple html and CSS, learning the basics, with the end result building 
 an example of the YouTube homepage.
 
-<b>End results:</b>https://james-gulland.github.io/youtube-example/
+<b>End results:</b> https://james-gulland.github.io/youtube-example/
 
 Link to excellent course here (highly recommended for newbs): https://youtu.be/G3e-cpL7ofc
 
